@@ -8,7 +8,7 @@ and reinstall as needed.
 Furthermore, sometimes I ran into an issue where the sensor was being recognized by the Pi, no errors and the like, however, it still didn't run as it was supposed to. I have found that the only solution
 was to wipe the Pi or get a new Pi altogether. Please keep in mind that I tried every solution possible and I could not find a way to circumvent having to wipe the Pi. 
 
-Also, This code and everything else was written by a complete amateur. It does, however, get the job done and complete the specifications perfectly, but I ill admit that the code can be 
-streamlined further and made more organized. 
+Also, This code and everything else was written by a complete amateur. It does, however, get the job done and complete the specifications perfectly, but I will admit that it can be 
+streamlined further and made more organized. All in all, I am pretty happy with the final result and I hope that it can useful so some. 
 
 I hope that the code is satisfactory and manages to help with any problems that may arise. Thanks. 
