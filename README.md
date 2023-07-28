@@ -1,14 +1,11 @@
 # HAT_Scripts
-Simple python code for the mcc134 Daqhat in conjunction with a 105E-L thermocouple, a picamera NoIR module, the Pimoroni Growhat and Enviroplus sensors. Please keep in mind that some of these 
-codes do not work straight off the bat, and need to have the necessary dependencies installed from the offical publishers github.
+This repository contains Python scripts developed for various modules including the MCC134 Daqhat, a 105E-L thermocouple, the PiCamera NoIR module, the Pimoroni Growhat, and Enviroplus sensors. These scripts were specifically designed to meet my project requirements but can certainly be adapted to fit your own.
 
-For example, if you are having difficulty with the mcc134, giving error statements like ImportError or ValueError, etc, make sure you you have official mcc134 daqhat repository installed on your system, 
-and reinstall as needed. 
+Please note that these scripts may not work out-of-the-box, as they depend on several libraries and packages that must be installed beforehand. Specifically, if you're facing issues like ImportError or ValueError related to the MCC134, ensure that the official MCC134 daqhat repository is installed on your system. Reinstall as needed.
 
-Furthermore, sometimes I ran into an issue where the sensor was being recognized by the Pi, no errors and the like, however, it still didn't run as it was supposed to. I have found that the only solution
-was to wipe the Pi or get a new Pi altogether. Please keep in mind that I tried every solution possible and I could not find a way to circumvent having to wipe the Pi. 
+In some instances, you might find the sensor is recognized by the Pi without any errors, but still fails to operate as expected. In my experience, if all troubleshooting has failed, wiping the Pi or using a different Pi might be the only solution. I've taken every measure to avoid this drastic step, but it was unavoidable in certain cases.
 
-Final Note: I will admit that the code can be streamlined further and made more effecient, however, it managed to get the job done for my suited specifications and I very satisfied with the final result.
-if you have any suggestions or improvements, you can change as needed to suit your constraints. I hope you find these scripts useful. Thanks. 
+This code is by no means perfect - there's certainly room for enhancement and optimization. But it worked effectively within the scope of my project's requirements. I invite any suggestions or improvements. Feel free to adapt and modify the code to meet your specifications.
 
+I hope these scripts will prove to be useful. Thanks.
 
