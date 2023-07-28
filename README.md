@@ -1,5 +1,5 @@
 # HAT_Scripts
-This repository contains Python scripts developed for various modules including the MCC134 Daqhat, a 105E-L thermocouple, the PiCamera NoIR module, the Pimoroni Growhat, and Enviroplus sensors. These scripts were specifically designed to meet my project requirements but can certainly be adapted to fit your own.
+This repository contains Python scripts developed for various modules including the MCC134 Daqhat in conjunction with a 105E-L thermocouple, the PiCamera NoIR module, the Pimoroni Growhat, and Enviroplus sensors. These scripts were specifically designed to meet my project requirements but can certainly be adapted to fit your own.
 
 Please note that these scripts may not work out-of-the-box, as they depend on several libraries and packages that must be installed beforehand. Specifically, if you're facing issues like ImportError or ValueError related to the MCC134, ensure that the official MCC134 daqhat repository is installed on your system. Reinstall as needed.
 
